@@ -1,0 +1,13 @@
+search_tweets_30_day_dev:
+  account_type: premium
+  endpoint: https://api.twitter.com/1.1/tweets/search/30day/30migrantes.json
+  consumer_key: wTkJtqlIXMfsQTy38wyQMOVX4
+  consumer_secret: uqaaBVY1pdDxDGJEoK1zOTv2vDRfwioWdSvLwZ5M9bVnzfcVtK
+  bearer_token: AAAAAAAAAAAAAAAAAAAAAJ5q6wAAAAAAMUvZM7OoKiH4rheGu13RMWcDEtU%3DGqxkSG68Is2TzQBHTCBvmpureFfLhVajY2zVfsZBCaOUT4yOBF
+
+search_tweets_fullarchive_dev:
+  account_type: premium
+  endpoint: https://api.twitter.com/1.1/tweets/search/fullarchive/migrantes.json
+  consumer_key: wTkJtqlIXMfsQTy38wyQMOVX4
+  consumer_secret: uqaaBVY1pdDxDGJEoK1zOTv2vDRfwioWdSvLwZ5M9bVnzfcVtK
+  bearer_token: AAAAAAAAAAAAAAAAAAAAAJ5q6wAAAAAAMUvZM7OoKiH4rheGu13RMWcDEtU%3DGqxkSG68Is2TzQBHTCBvmpureFfLhVajY2zVfsZBCaOUT4yOBF
