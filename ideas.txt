@@ -1,0 +1,4 @@
+word cloud/bubbles de mexico/eu/centroamerica
+# de menciones de palabras clave por estado, o pais
+# de menciones de palabras clave por mes
+network de las palabras
